@@ -52,10 +52,6 @@ toposort==1.10
     # via pip-compile-multi
 tox==4.5.2
     # via -r requirements/dev.in
-virtualenv==20.23.0
-    # via
-    #   pre-commit
-    #   tox
 wheel==0.40.0
     # via pip-tools
 
